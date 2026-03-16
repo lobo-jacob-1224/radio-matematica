@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+env/
+.env
+build/
+dist/
+*.spec
+*.db
+*.log
+*.deb
+*.exe
+*.ico
+*.png
+# Excepto los iconos que queremos subir
+!radio_icon.png
+!radio_icon.ico
