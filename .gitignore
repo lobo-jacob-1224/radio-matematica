@@ -15,6 +15,7 @@ dist/
 *.exe
 *.ico
 *.png
-# Excepto los iconos que queremos subir
+# Excepto los iconos y el binario oficial
 !radio_icon.png
 !radio_icon.ico
+!radio-matematica_1.0.0_all.deb
